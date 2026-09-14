@@ -49,10 +49,28 @@ HotelsController (GET /hotels/{countryId})
 Скриншоты
 Интерфейс приложения
 china
-Рисунок 1: Список отелей в Китае
 
+<img width="566" height="392" alt="china_hotels" src="https://github.com/user-attachments/assets/4cfa0e77-0ff2-4217-92c0-3e530b24f863" />
+
+Рисунок 1: Список отелей в Китае
 china
+
+<img width="566" height="392" alt="thai_hotels" src="https://github.com/user-attachments/assets/1be47661-da91-4deb-80ed-05311d76f098" />
+
 Рисунок 2: Список отелей в Таиланде
+
+
+База данных
 <img width="1020" height="715" alt="pgAdmin" src="https://github.com/user-attachments/assets/8d40a22e-d4da-4b85-8a69-576fd7be61c7" />
+Рисунок 3: Структура базы данных в pgAdmin
+
+Запуск проекта
+<img width="1212" height="507" alt="api_succ" src="https://github.com/user-attachments/assets/6a566dd7-77fc-45b5-8132-3ba77d68c176" />
+Рисунок 4: Бэкенд успешно запущен
+
+<img width="1198" height="221" alt="react_succ" src="https://github.com/user-attachments/assets/8dd4b758-2ef1-47aa-b55c-748121888414" />
+Рисунок 5: Фронтенд собран и готов к работе
+
+
 
 
