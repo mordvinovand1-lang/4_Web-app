@@ -53,5 +53,6 @@ china
 
 china
 Рисунок 2: Список отелей в Таиланде
+<img width="1020" height="715" alt="pgAdmin" src="https://github.com/user-attachments/assets/8d40a22e-d4da-4b85-8a69-576fd7be61c7" />
 
 
